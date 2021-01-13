@@ -1,0 +1,1 @@
+echo denemse >> denek.txt
